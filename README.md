@@ -35,8 +35,7 @@ Este workshop é destinado a um público que é novo com Tensorflow com um conhe
 Simplesmente abra os Notebooks [Jupyter](http://jupyter.org/) nos quais você está interessado:
 
 
-* Usando [jupyter.org's notebook viewer](http://nbviewer.jupyter.org/github/ageron/handson-ml/blob/master/index.ipynb)
-    * obs: O [github.com's notebook viewer](https://github.com/ageron/handson-ml/blob/master/index.ipynb) também funciona, mas é mais lento e as fórmulas matemáticas não são exibidas corretamente :(,
+* Usando o [github.com's notebook viewer](https://github.com/Carlos-Henreis/tensorflow-workshop/blob/master/index.ipynb) também funciona, mas é mais lento e as fórmulas matemáticas não são exibidas corretamente :(,
 * Ou clone este repositório e execute o Jupyter localmente. Esta opção permite brincar com o código. Neste caso, siga as instruções de instalação abaixo.
 
 ## Instalação
