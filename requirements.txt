@@ -1,0 +1,31 @@
+# Primeiro, certifique-se de atualizar o pip:
+#     $ sudo pip install --upgrade pip
+#
+# Se você quer trabalhar em um virtualenv (opcional):
+#     $ sudo pip install --upgrade virtualenv
+# OOu se preferir, você pode instalar o virtualenv usando seu gerenciador de pacotes favorito
+# Por exemplo, no Ubuntu:
+#     $ sudo apt-get update && sudo apt-get install virtualenv
+# Então:
+#     $ cd $my_work_dir
+#     $ virtualenv my_env
+#     $ . my_env/bin/activate
+#
+# TEntão instale estes requisitos:
+#     $ pip install --upgrade -r requirements.txt
+#
+# Finalmente, inicie o jupyter:
+#     $ jupyter notebook
+#
+
+
+##### Pacotes científicos principais
+jupyter==4.4.0
+matplotlib==2.2.2
+numpy==1.14.5
+pandas==0.22.0
+
+##### Pacotes de ML/Deep Learning
+
+tensorflow==1.8.0
+#tensorflow-gpu==1.8.0
