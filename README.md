@@ -85,7 +85,7 @@ Isso cria um novo ambiente chamado Python 3.5 wstensorflow(você pode alterar o 
 Isso instala a versão mais recente do TensorFlow disponível para o Anaconda (que normalmente não é a versão mais recente do TensorFlow) no ambiente `wstensorflow` (buscando-o no `conda-forge` repositório). Se você optou por não criar um ambiente wstensorflow, basta remover a opção `-n wstensorflow`.
 
 
-Estás pronto! Em seguida, pule para a seção [Iniciando Jupyter](#starting-jupyter).
+Estás pronto! Em seguida, pule para a seção [Iniciando Jupyter](#iniciando-jupyter).
 
 ## Usando pip
 Se você não está usando o Anaconda, você precisa instalar várias bibliotecas científicas do Python que são necessárias para este projeto, em particular o NumPy, Pandas, Jupyter e TensorFlow (e alguns outros). Para isso, você pode usar o sistema de empacotamento integrado do Python, pip, ou você pode preferir usar o sistema de empacotamento do próprio sistema (se disponível, por exemplo, no Linux ou no MacOSX ao usar MacPorts ou Homebrew). A vantagem de usar o pip é que é fácil criar vários ambientes Python isolados com diferentes bibliotecas e diferentes versões de bibliotecas (por exemplo, um ambiente para cada projeto). A vantagem de usar o sistema de pacotes do seu sistema é que há menos risco de haver conflitos entre as bibliotecas do Python e os outros pacotes do seu sistema. Como tenho muitos projetos com diferentes requisitos de biblioteca, Eu prefiro usar pip com ambientes isolados. Além disso, os pacotes pip geralmente são os mais recentes disponíveis, enquanto o Anaconda e os pacotes do sistema geralmente ficam um pouco atrasados.
