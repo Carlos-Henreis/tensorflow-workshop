@@ -50,7 +50,7 @@ Em seguida, clone este repositório abrindo um terminal e digitando os seguintes
 
 Se você não deseja instalar o git, você pode fazer o download de [master.zip](https://github.com/Carlos-Henreis/tensorflow-workshop/archive/master.zip), descompactá-lo, renomear o diretório resultante para `tensorflow-workshop` e movê-lo para o diretório de desenvolvimento.
 
-Se você estiver familiarizado com o Python e souber como instalar bibliotecas do Python, vá em frente e instale as bibliotecas listadas `requirements.txt` e salte para a seção [Iniciando o Jupyter](#starting-jupyter). Se você precisar de instruções detalhadas, por favor, continue a ler.
+Se você estiver familiarizado com o Python e souber como instalar bibliotecas do Python, vá em frente e instale as bibliotecas listadas `requirements.txt` e salte para a seção [Iniciando o Jupyter](#iniciando-jupyter). Se você precisar de instruções detalhadas, por favor, continue a ler.
 
 ## Bibliotecas Python
 
