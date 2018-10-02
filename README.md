@@ -92,14 +92,7 @@ Se você não está usando o Anaconda, você precisa instalar várias biblioteca
 
 Estes são os comandos que você precisa digitar em um terminal, se você quiser usar o pip para instalar as bibliotecas necessárias. Nota: em todos os comandos a seguir, se você escolher usar o Python 2 em vez do Python 3, deverá substituir `pip3` por `pip` e `python3` por `python`.
 
-Primeiro você precisa ter certeza de ter a versão mais recente do pip instalada:
-
-    $ pip3 install --user --upgrade pip
-
-A opção `--user` instalará a versão mais recente do pip apenas para o usuário atual. Se você preferir instalá-lo em todo o sistema (ou seja, para todos os usuários), você deve ter direitos de administrador (por exemplo, usar em `sudo pip3` em vez de  `pip3` no Linux), e deve remover a opção `--user`. The same is true of the command below that uses the `--user` option.
-
-
-Em seguida, use pip para instalar os pacotes python necessários. Se você não estiver usando o virtualenv, você deve adicionar a opção `--user` (aalternativamente, você pode instalar as bibliotecas em todo o sistema, mas isso provavelmente exigirá direitos de administrador, por exemplo, usando em `sudo pip3` em vez de `pip3` no Linux).
+Use pip para instalar os pacotes python necessários. Se você não estiver usando o virtualenv, você deve adicionar a opção `--user` (alternativamente, você pode instalar as bibliotecas em todo o sistema, mas isso provavelmente exigirá direitos de administrador, por exemplo, usando em `sudo pip3` em vez de `pip3` no Linux).
 
     $ pip3 install --upgrade -r requirements.txt
 
@@ -110,8 +103,11 @@ Agora você pode iniciar o Jupyter, simplesmente digite:
 
     $ jupyter notebook
 
-Isso deve abrir o seu navegador, e você deve ver a visão em árvore do Jupyter, com o conteúdo do diretório atual. Se o seu navegador não abrir automaticamente, visite [localhost:8888](http://localhost:8888/tree). Clique `index.ipynb` para começar!
+Isso deve abrir o seu navegador, e você deve ver a visão em árvore do Jupyter, com o conteúdo do diretório atual. Se o seu navegador não abrir automaticamente, visite [localhost:8888](http://localhost:8888/tree).
 
-Note: you can also visit [http://localhost:8888/nbextensions](http://localhost:8888/nbextensions) to activate and configure Jupyter extensions.
+**Nota:** Se ainda estiver problemas com o Jupyter veja:
+* https://datawookie.netlify.com/blog/2017/06/setting-up-jupyter-with-python-3-on-ubuntu/
+
+* https://github.com/jupyter/notebook/issues/4050
 
 Parabéns! Você está pronto para começarmos!

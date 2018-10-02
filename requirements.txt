@@ -1,6 +1,3 @@
-# Primeiro, certifique-se de atualizar o pip:
-#     $ sudo pip install --upgrade pip
-#
 # Se você quer trabalhar em um virtualenv (opcional):
 #     $ sudo pip install --upgrade virtualenv
 # OOu se preferir, você pode instalar o virtualenv usando seu gerenciador de pacotes favorito
@@ -10,13 +7,15 @@
 #     $ cd $my_work_dir
 #     $ virtualenv my_env
 #     $ . my_env/bin/activate
-#
-# TEntão instale estes requisitos:
+#python
+# Então instale estes requisitos:
 #     $ pip install --upgrade -r requirements.txt
 #
 # Finalmente, inicie o jupyter:
 #     $ jupyter notebook
-#
+# Se ainda estiver problemas com o Jupyter veja:
+#  https://datawookie.netlify.com/blog/2017/06/setting-up-jupyter-with-python-3-on-ubuntu/
+#  https://github.com/jupyter/notebook/issues/4050
 
 
 ##### Pacotes científicos principais
