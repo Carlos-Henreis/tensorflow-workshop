@@ -11,8 +11,8 @@ Este workshop é destinado a um público que é novo com Tensorflow com um conhe
 
 * Introdução/instalação
 * Como funciona o TensorFlow
-* Declarando Tensores/helloworld
-* Usando espaços reservados (placeholders) e variáveis
+* Componentes Básicos
+* x Declarando Tensores: Usando espaços reservados (placeholders) e variáveis
 * Trabalhando com Matrizes
 * Declarando Operações
 * Implementando Funções de Ativação
