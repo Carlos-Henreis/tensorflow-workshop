@@ -15,8 +15,8 @@ Este workshop é destinado a um público que é novo com Tensorflow com um conhe
 * Declarando Tensores: Usando espaços reservados (placeholders) e variáveis
 * Trabalhando com Matrizes
 * Grafos e Sessões
-* x Declarando Operações
-* Implementando Funções de Ativação
+* Declarando Operações
+* X Implementando Funções de Ativação
 * Trabalhando com entradas de dados
 * Exercícios
 
