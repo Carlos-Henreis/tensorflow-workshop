@@ -16,14 +16,14 @@ Este workshop é destinado a um público que é novo com Tensorflow com um conhe
 * Trabalhando com Matrizes
 * Grafos e Sessões
 * Declarando Operações
-* X Implementando Funções de Ativação
 * Trabalhando com entradas de dados
+* Visualização com tensorboard
 * Exercícios
 
 **Parte 2 - TensorFlow Detalhado (4 horas)** / Entendendo como melhor organizar um código TensorFlow:
 
 * Escopos de Nomes e modularidade no Código
-* Visualização com tensorboard
+* X Implementando Funções de Ativação
 * Agora sim Tensoflow e ML <3
 * Usando o TensorFlow em outra perspectiva (trabalhando com APIs de alto nível)
 * Usando alguns Modelos interessantes)
